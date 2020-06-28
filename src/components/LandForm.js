@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { Grid, Button, Card, CardContent, InputLabel, MenuItem, FormControl, 
     Select  } from '@material-ui/core';  
-import TextField from '@material-ui/core/TextField';    
+import TextField from '@material-ui/core/TextField';  
+import api from '../api';  
 
     
 export default class LandForm extends Component {
@@ -57,8 +58,10 @@ export default class LandForm extends Component {
         this.setState({landFormParams: {...this.state.landFormParams, widthUnit: event.target.value}})
     );
 
-    handleSubmit = () => {
+    handleSubmit = (event) => {
+        event.preventDefault();
         console.log(this.state.landFormParams);
+        api(this.state.landFormParams);        
     }
 
 
