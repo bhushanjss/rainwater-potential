@@ -31,7 +31,7 @@ class LandForm extends Component {
         super(props);
         this.state = {
             landFormParams : {
-                areaType:'farm',
+                areaType:'Farm',
                 locationName: '',
                 coords:'',
                 length: '',
@@ -46,6 +46,8 @@ class LandForm extends Component {
             selectedState: {},
             district: '',
             districtList: [],
+            useCalcArea: false,
+            areaButtonTxt: 'Calculate Area',
             result: null,
             resultValid: false
         }          
@@ -117,6 +119,9 @@ class LandForm extends Component {
         this.setState({landFormParams: {...this.state.landFormParams, widthUnit: event.target.value}})
     );
 
+    toggleCalcArea = () => this.setState({useCalcArea: !this.state.useCalcArea, 
+        areaButtonTxt:  this.state.useCalcArea ? 'Calculate Area' : 'Use Area' });
+
     handleSubmit = async (event) => {
         event.preventDefault();
         console.log(this.state.landFormParams);
@@ -145,6 +150,78 @@ class LandForm extends Component {
         }
     }
 
+    renderArea = () => {
+        const { classes } = this.props;
+        if(this.state.useCalcArea) {
+            return(<div>
+                    <TextField className={classes.widthFull} label="Length" id="length" 
+                            value={this.state.landFormParams.length} onChange={this.handleChange.bind(this)}  
+                            type="number"
+                            InputLabelProps={{
+                                shrink: true,
+                            }}
+                            variant="outlined"/>
+                    <FormControl className={classes.widthFull}>
+                        <InputLabel id="lengthUnit-select-label">Length Unit</InputLabel>
+                        <Select
+                            labelId="lengthUnit-select-label"
+                            id="lengthUnit"
+                            value={this.state.landFormParams.lengthUnit}
+                            onChange={this.handleLenghtUnitChange.bind(this)} >
+                            <MenuItem value={'meter'}>Meter</MenuItem>
+                            <MenuItem value={'feet'}>Feet</MenuItem>
+                            <MenuItem value={'km'}>Kilo Meter</MenuItem>
+                            <MenuItem value={'mile'}>Mile</MenuItem>
+                        </Select>
+                    </FormControl>
+                        <TextField className={classes.widthFull} label="Width" id="width" 
+                            value={this.state.landFormParams.width} onChange={this.handleChange.bind(this)}  
+                            type="number"
+                            InputLabelProps={{
+                                shrink: true,
+                            }}
+                            variant="outlined"/>
+                    <FormControl className={classes.widthFull}>
+                        <InputLabel id="lengthUnit-select-label">Width Unit</InputLabel>
+                        <Select
+                            labelId="lengthUnit-select-label"
+                            id="widthUnit"
+                            value={this.state.landFormParams.widthUnit}
+                            onChange={this.handleWidthUnitChange.bind(this)} >
+                            <MenuItem value={'meter'}>Meter</MenuItem>
+                            <MenuItem value={'feet'}>Feet</MenuItem>
+                            <MenuItem value={'km'}>Kilo Meter</MenuItem>
+                            <MenuItem value={'mile'}>Mile</MenuItem>
+                        </Select>
+                    </FormControl>                                
+            </div>)
+        } else {
+            return(<div>
+                <TextField className={classes.widthFull}  label="Area" id="area" 
+                    value={this.state.landFormParams.area} onChange={this.handleChange.bind(this)}  
+                    type="number"
+                    InputLabelProps={{
+                        shrink: true,
+                    }}
+                variant="outlined"/>
+                <FormControl id="area-unit" className={classes.widthFull}>
+                    <InputLabel id="areaUnit-select-label">Area Unit</InputLabel>
+                    <Select
+                        labelId="areaUnit-select-label"
+                        id="areaUnit"
+                        value={this.state.landFormParams.areaUnit}
+                        onChange={this.handleAreaUnitChange.bind(this)} >
+                        <MenuItem value={'hectare'}>Hectares</MenuItem>
+                        <MenuItem value={'acre'}>Acres</MenuItem>
+                        <MenuItem value={'sqm'}>Square Meters</MenuItem>
+                        <MenuItem value={'sqkm'}>Square Kilometers</MenuItem>
+                        <MenuItem value={'sqmi'}>Square Miles</MenuItem>
+                    </Select>
+                </FormControl>
+            </div>)
+        }
+    }
+
     render() {    
         const { classes } = this.props;         
             if(this.state.resultValid) {
@@ -163,10 +240,10 @@ class LandForm extends Component {
                                     id="areaType"
                                     value={this.state.landFormParams.areaType}
                                     onChange={this.handleAreaTypeChange.bind(this)} >
-                                    <MenuItem value={'farm'}>Farm</MenuItem>
-                                    <MenuItem value={'household'}>House</MenuItem>
-                                    <MenuItem value={'residential'}>Residential Complex</MenuItem>
-                                    <MenuItem value={'industrial'}>Industrial</MenuItem>
+                                    <MenuItem value={'Farm'}>Farm</MenuItem>
+                                    <MenuItem value={'House'}>House</MenuItem>
+                                    <MenuItem value={'Residential'}>Residential Complex</MenuItem>
+                                    <MenuItem value={'Industrial'}>Industrial</MenuItem>
                                 </Select>
                             </FormControl>
                             <Divider className={classes.divider} />
@@ -195,68 +272,11 @@ class LandForm extends Component {
                                 </Select>
                             </FormControl>
                             {this.renderDistrict()}
-                            <Divider className={classes.divider} />        
-                            <TextField className={classes.widthFull}  label="Area" id="area" 
-                                value={this.state.landFormParams.area} onChange={this.handleChange.bind(this)}  
-                                type="number"
-                                InputLabelProps={{
-                                    shrink: true,
-                                }}
-                                variant="outlined"/>
-                            <FormControl id="area-unit" className={classes.widthFull}>
-                                <InputLabel id="areaUnit-select-label">Area Unit</InputLabel>
-                                <Select
-                                    labelId="areaUnit-select-label"
-                                    id="areaUnit"
-                                    value={this.state.landFormParams.areaUnit}
-                                    onChange={this.handleAreaUnitChange.bind(this)} >
-                                    <MenuItem value={'hectare'}>Hectares</MenuItem>
-                                    <MenuItem value={'acre'}>Acres</MenuItem>
-                                    <MenuItem value={'sqm'}>Square Meters</MenuItem>
-                                    <MenuItem value={'sqkm'}>Square Kilometers</MenuItem>
-                                    <MenuItem value={'sqmi'}>Square Miles</MenuItem>
-                                </Select>
-                            </FormControl>    
-                                <TextField className={classes.widthFull} label="Length" id="length" 
-                                    value={this.state.landFormParams.length} onChange={this.handleChange.bind(this)}  
-                                    type="number"
-                                    InputLabelProps={{
-                                        shrink: true,
-                                    }}
-                                    variant="outlined"/>
-                            <FormControl className={classes.widthFull}>
-                                <InputLabel id="lengthUnit-select-label">Length Unit</InputLabel>
-                                <Select
-                                    labelId="lengthUnit-select-label"
-                                    id="lengthUnit"
-                                    value={this.state.landFormParams.lengthUnit}
-                                    onChange={this.handleLenghtUnitChange.bind(this)} >
-                                    <MenuItem value={'meter'}>Meter</MenuItem>
-                                    <MenuItem value={'feet'}>Feet</MenuItem>
-                                    <MenuItem value={'km'}>Kilo Meter</MenuItem>
-                                    <MenuItem value={'mile'}>Mile</MenuItem>
-                                </Select>
-                            </FormControl>
-                                <TextField className={classes.widthFull} label="Width" id="width" 
-                                    value={this.state.landFormParams.width} onChange={this.handleChange.bind(this)}  
-                                    type="number"
-                                    InputLabelProps={{
-                                        shrink: true,
-                                    }}
-                                    variant="outlined"/>
-                            <FormControl className={classes.widthFull}>
-                                <InputLabel id="lengthUnit-select-label">Width Unit</InputLabel>
-                                <Select
-                                    labelId="lengthUnit-select-label"
-                                    id="widthUnit"
-                                    value={this.state.landFormParams.widthUnit}
-                                    onChange={this.handleWidthUnitChange.bind(this)} >
-                                    <MenuItem value={'meter'}>Meter</MenuItem>
-                                    <MenuItem value={'feet'}>Feet</MenuItem>
-                                    <MenuItem value={'km'}>Kilo Meter</MenuItem>
-                                    <MenuItem value={'mile'}>Mile</MenuItem>
-                                </Select>
-                            </FormControl>
+                            <Divider className={classes.divider} />
+                            {this.renderArea()}
+                            <Button variant="contained" color="secondary" onClick={this.toggleCalcArea.bind(this)} >
+                                {this.state.areaButtonTxt}
+                            </Button>
                             <Divider className={classes.divider} />
                             <Button variant="contained" type="Submit" color="primary">Submit</Button>
                     </form>

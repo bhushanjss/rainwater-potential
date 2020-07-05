@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container } from '@material-ui/core';
+import { Container, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import logo from './resources/logo.png';
 import LandForm from './components/LandForm';
@@ -29,7 +29,9 @@ function App() {
     <div className={classes.App}>
       <header className={classes.AppHeader}>
         <img src={logo} className={classes.AppLogo} alt="logo" />
-        <h1>Rainwater Harvesting Potential</h1>
+        <Typography className={classes.heading} component="h3" variant="h3">
+            Rainwater Harvesting Potential
+        </Typography>
       </header>
       <Container maxWidth="sm">
         <LandForm />

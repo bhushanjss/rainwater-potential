@@ -8,7 +8,8 @@ import CloseIcon from '@material-ui/icons/Close';
 import WavesIcon from '@material-ui/icons/Waves';
 import LandscapeIcon from '@material-ui/icons/Landscape';
 import PinDropIcon from '@material-ui/icons/PinDrop';
-import bucketImgSrc from '../resources/water-tank.png';
+import bucketImgSrc from '../resources/water-tank.jpg';
+import farmImgSrc from '../resources/wheat0.jpg';
 
 const useStyles = makeStyles(theme => ({
     backButton: {
@@ -16,6 +17,9 @@ const useStyles = makeStyles(theme => ({
     },
     card: {
         margin: '2em 0'
+    },
+    heading: {
+        padding: '1em 0'
     },
     typography: {
         padding: '1em 0',
@@ -66,8 +70,8 @@ const useStyles = makeStyles(theme => ({
 
 export default function ShowResult(props) {
     const classes = useStyles();
-    const {area, areaUnit, volWaterRounded, waterUnit} = props.data;
-   
+    const {area, areaUnit, volWaterRounded, waterUnit} = props.data;   
+    let imageSrc = props.areaType === 'Farm'? farmImgSrc : bucketImgSrc;
 
     return (
         <div>
@@ -77,12 +81,12 @@ export default function ShowResult(props) {
                     onClick={() => props.backpage()} component="span">
                         <ArrowBackIcon />
                     </IconButton>
-                    <Typography className={classes.typography} component="h5" variant="h5">
-                        Rain Water Received (Yearly)
+                    <Typography className={classes.heading} component="h4" variant="h4">
+                        Rainwater Received Yearly
                     </Typography>
-                    <Typography className={classes.typography}>
+                    <Typography className={classes.heading} component="h5" variant="h5">
                         {props.areaType}
-                    </Typography>                    
+                    </Typography>                   
                     {renderCoordinates(props, classes)}
                     <Typography className={classes.typography} color="textSecondary">
                         <LandscapeIcon fontSize="large" className={classes.typographyIcon} />
@@ -96,8 +100,8 @@ export default function ShowResult(props) {
                     <Grid item sm={12} className={classes.flexView}>
                         <CardMedia
                             className={classes.media}
-                            image={bucketImgSrc}
-                            title="Bucket"
+                            image={imageSrc}
+                            title="Water"
                         /> 
                         <CloseIcon className={classes.icon} />
                         <Typography className={classes.volWaterTxt}  variant="subtitle1" color="textSecondary">
