@@ -21,6 +21,9 @@ const useStyles = makeStyles(theme => ({
   justifyContent: 'center',
   color: 'white',
   },
+  heading: {
+    margin: '1em 0'
+  }
 }));
 
 function App() {
