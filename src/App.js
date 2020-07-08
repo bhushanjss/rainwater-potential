@@ -1,7 +1,6 @@
 import React from 'react';
-import { Container, Typography } from '@material-ui/core';
+import { Container } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import logo from './resources/logo.png';
 import LandForm from './components/LandForm';
 
 const useStyles = makeStyles(theme => ({
@@ -30,12 +29,6 @@ function App() {
   const classes = useStyles();
   return (    
     <div className={classes.App}>
-      <header className={classes.AppHeader}>
-        <img src={logo} className={classes.AppLogo} alt="logo" />
-        <Typography className={classes.heading} component="h3" variant="h3">
-            Rainwater Harvesting Potential
-        </Typography>
-      </header>
       <Container maxWidth="sm">
         <LandForm />
       </Container>      
