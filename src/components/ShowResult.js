@@ -16,33 +16,40 @@ const useStyles = makeStyles(theme => ({
         float: 'left'
     },
     card: {
-        margin: '2em 0'
+        margin: '2rem 0'
     },
     heading: {
-        padding: '1em 0'
+        paddingBottom: '1rem',
+        clear: 'left'
     },
     typography: {
         padding: '1em 0',
         display: 'flex',
-        justifyContent: 'space-between'
+        alignItems: 'center'
     },
     typographyIcon: {
-        marginLeft: '2em'
+        marginLeft: '4rem',
+        marginRight: '6rem'
     },
     media: {
-        width: '4em',
+        float: 'left',
+        marginLeft: '4rem',
+        marginRight: '3rem',        
         backgroundSize: 'contain',
-        height: '4em'
+        width: '4rem',
+        height: '4rem'
       },
     icon: {
-        fontSize: '4em',
+        fontSize: '4rem',
+        float: 'left',
+        marginRight: '2rem'
     },
     flexView: {
-        display: 'flex',
-        justifyContent: 'space-around'
+        overflow: 'auto'
     },
     volWaterTxt: {
-        fontSize: '2em'
+        fontSize: '2rem',
+        float: 'left'
     }  
   }));
 
@@ -60,7 +67,7 @@ const useStyles = makeStyles(theme => ({
         location = data.coord;
     }
     return (
-        <Typography className={classes.typography} color="textSecondary">
+        <Typography className={classes.typography} component="div" color="textSecondary">
             <PinDropIcon fontSize="large" className={classes.typographyIcon} />
             <span className="text">{location}</span>                        
         </Typography>
@@ -78,7 +85,7 @@ export default function ShowResult(props) {
             <Card className={classes.card}>
                 <CardContent>
                     <IconButton color="primary" className={classes.backButton} aria-label="back page" 
-                    onClick={() => props.backpage()} component="span">
+                    onClick={() => props.backpage()} component="div">
                         <ArrowBackIcon />
                     </IconButton>
                     <Typography className={classes.heading} component="h4" variant="h4">
@@ -88,11 +95,11 @@ export default function ShowResult(props) {
                         {props.areaType}
                     </Typography>                   
                     {renderCoordinates(props, classes)}
-                    <Typography className={classes.typography} color="textSecondary">
+                    <Typography className={classes.typography} component="div" color="textSecondary">
                         <LandscapeIcon fontSize="large" className={classes.typographyIcon} />
                         <span className="text"> {area} {areaUnit}</span>
                     </Typography>
-                    <Typography className={classes.typography} color="textSecondary">
+                    <Typography className={classes.typography} component="div" color="textSecondary">
                         <WavesIcon fontSize="large" className={classes.typographyIcon} />
                         <span className="text"> {volWaterRounded} {waterUnit}</span>
                     </Typography>
@@ -104,7 +111,7 @@ export default function ShowResult(props) {
                             title="Water"
                         /> 
                         <CloseIcon className={classes.icon} />
-                        <Typography className={classes.volWaterTxt}  variant="subtitle1" color="textSecondary">
+                        <Typography className={classes.volWaterTxt} component="div"  variant="subtitle1" color="textSecondary">
                             { Math.round(volWaterRounded/1000) } 
                         </Typography>                           
                     </Grid>

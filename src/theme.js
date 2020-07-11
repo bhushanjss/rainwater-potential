@@ -11,7 +11,7 @@ const theme = createMuiTheme({
             'Poppins',
             'sans-serif',
           ].join(','), 
-          fontSize: '2rem',
+          fontSize: '1rem',
         },
       },
     },

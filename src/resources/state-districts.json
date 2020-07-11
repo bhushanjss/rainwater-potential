@@ -5,91 +5,113 @@
     "districtData": [
     {
         "id": "Srinagar",
-        "name": "Srinagar"
+        "name": "Srinagar",
+        "coords": "34.1069229,74.6663258"
     },
     {
         "id": "Baramulla",
-        "name": "Baramulla"
+        "name": "Baramulla",
+        "coords": "34.2014197,74.3431306"
     },
     {
         "id": "Kulgam",
-        "name": "Kulgam"
+        "name": "Kulgam",
+        "coords": "33.6462768,75.0076036"
     },
     {
         "id": "Shopiyan",
-        "name": "Shopiyan"
+        "name": "Shopiyan",
+        "coords": "33.4531062,75.5478137"
     },
     {
         "id": "Anantnag",
-        "name": "Anantnag"
+        "name": "Anantnag",
+        "coords": "33.727953,75.113219"
     },
     {
         "id": "Kupwara",
-        "name": "Kupwara"
+        "name": "Kupwara",
+        "coords": "34.5261459,74.2450047"
     },
     {
         "id": "Pulwama",
-        "name": "Pulwama"
+        "name": "Pulwama",
+        "coords": "33.8719709,74.879165"
     },
     {
         "id": "Budgam",
-        "name": "Budgam"
+        "name": "Budgam",
+        "coords": "33.8972829,74.3908686"
     },
     {
         "id": "Jammu",
-        "name": "Jammu"
+        "name": "Jammu",
+        "coords": "32.7147992,74.7899236"
     },
     {
         "id": "Bandipora",
-        "name": "Bandipora"
+        "name": "Bandipora",
+        "coords": "34.4374637,74.5786102"
     },
     {
         "id": "Udhampur",
-        "name": "Udhampur"
+        "name": "Udhampur",
+        "coords": "32.9158516,75.1337831"
     },
     {
         "id": "Kathua",
-        "name": "Kathua"
+        "name": "Kathua",
+        "coords": "32.3827578,75.510173"
     },
     {
         "id": "Ramban",
-        "name": "Ramban"
+        "name": "Ramban",
+        "coords": "33.2464046,75.1851361"
     },
     {
         "id": "Samba",
-        "name": "Samba"
+        "name": "Samba",
+        "coords": "32.5474968,75.0916353"
     },
     {
         "id": "Punch",
-        "name": "Punch"
+        "name": "Punch",
+        "coords": "33.7725059,74.0782042"
     },
     {
         "id": "Ganderbal",
-        "name": "Ganderbal"
+        "name": "Ganderbal",
+        "coords": "34.2165124,74.7631883"
     },
     {
         "id": "Rajouri",
-        "name": "Rajouri"
+        "name": "Rajouri",
+        "coords": "33.3816297,74.3142746"
     },
     {
         "id": "Doda",
-        "name": "Doda"
+        "name": "Doda",
+        "coords": "33.145474,75.5373144"
     },
     {
         "id": "Reasi",
-        "name": "Reasi"
+        "name": "Reasi",
+        "coords": "33.0803736,74.8276865"
     },
     {
         "id": "Kishtwar",
-        "name": "Kishtwar"
+        "name": "Kishtwar",
+        "coords": "33.3191147,75.7493952"
     },
     {
         "id": "Mirpur",
-        "name": "Mirpur"
+        "name": "Mirpur",
+        "coords": "33.1481588,73.7068026"
     },
     {
         "id": "Muzaffarabad",
-        "name": "Muzaffarabad"
+        "name": "Muzaffarabad",
+        "coords": "34.3619013,73.4457646"
     }]
 },
 {
@@ -98,11 +120,13 @@
     "districtData": [
     {
         "id": "Kargil",
-        "name": "Kargil"
+        "name": "Kargil",
+        "coords": "34.5584489,76.099508"
     },
     {
         "id": "Leh",
-        "name": "Leh"
+        "name": "Leh",
+        "coords": "34.1663277,77.5317186"
     }]
 },    
 {
@@ -117,168 +141,199 @@
     "districtData": [
     {
         "id": "Kurnool",
-        "name": "Kurnool"
-    },
-    {
-        "id": "Other-States",
-        "name": "Other States"
+        "name": "Kurnool",
+        "coords":  "15.831363,78.035379"
     },
     {
         "id": "Anantapur",
-        "name": "Anantapur"
+        "name": "Anantapur",
+        "coords": "14.6779913, 77.6131635"
     },
     {
         "id": "Krishna",
-        "name": "Krishna"
+        "name": "Krishna",
+        "coords": "16.606712,80.809717"
     },
     {
         "id": "Guntur",
-        "name": "Guntur"
+        "name": "Guntur",
+        "coords": "16.307305,80.434039" 
     },
     {
         "id": "East-Godavari",
-        "name": "East Godavari"
+        "name": "East Godavari",
+        "coords": "16.931500,82.079169"
     },
     {
         "id": "Chittoor",
-        "name": "Chittoor"
+        "name": "Chittoor",
+        "coords": "13.216956,79.099623"
     },
     {
         "id": "West-Godavari",
-        "name": "West Godavari"
+        "name": "West Godavari",
+        "coords": "16.800131,81.512022"
     },
     {
         "id": "Kadapa",
-        "name": "Kadapa"
+        "name": "Kadapa",
+        "coords": "14.466104,78.825817"
     },
     {
         "id": "Nellore",
-        "name": "Nellore"
+        "name": "Nellore",
+        "coords": "14.437257,79.960475"
     },
     {
         "id": "Visakhapatnam",
-        "name": "Visakhapatnam"
+        "name": "Visakhapatnam",
+        "coords": "17.671293,83.272667"
     },
     {
         "id": "Prakasam",
-        "name": "Prakasam"
-    },
-    {
-        "id": "Foreign-Evacuees",
-        "name": "Foreign Evacuees"
+        "name": "Prakasam",
+        "coords": "15.567900,79.576868"
     },
     {
         "id": "Vizianagaram",
-        "name": "Vizianagaram"
+        "name": "Vizianagaram",
+       "coords": "18.114301,83.400391"
     },
     {
         "id": "Srikakulam",
-        "name": "Srikakulam"
+        "name": "Srikakulam",
+        "coords": "18.297549,83.893379"
     }]
 },
+ 
 {
     "id": "IN-AR",
     "state": "Arunachal Pradesh",
     "districtData": [
     {
         "id": "Changlang",
-        "name": "Changlang"
+        "name": "Changlang",
+        "coords": "27.7588417,96.6132545"
     },
     {
         "id": "Papum-Pare",
-        "name": "Papum Pare"
+        "name": "Papum Pare",
+        "coords":"27.1574031,93.5533785"
     },
     {
         "id": "West-Kameng",
-        "name": "West Kameng"
+        "name": "West Kameng",
+        "coords":"27.3088217,91.8408061"
     },
     {
         "id": "Namsai",
-        "name": "Namsai"
+        "name": "Namsai",
+        "coords":"27.6697841,95.8539641"
     },
     {
         "id": "East-Siang",
-        "name": "East Siang"
+        "name": "East Siang",
+        "coords":"28.266023,94.8126513"
     },
     {
         "id": "Lohit",
-        "name": "Lohit"
+        "name": "Lohit",
+        "coords":"27.9101684,96.1351768"
     },
     {
         "id": "Longding",
-        "name": "Longding"
+        "name": "Longding",
+        "coords":"26.8728344,95.2969932"
     },
     {
         "id": "Lower-Dibang-Valley",
-        "name": "Lower Dibang Valley"
+        "name": "Lower Dibang Valley",
+        "coords":"28.142891,95.834347"
     },
     {
         "id": "Lower-Siang",
-        "name": "Lower Siang"
+        "name": "Lower Siang",
+        "coords":""
     },
     {
         "id": "Tirap",
-        "name": "Tirap"
+        "name": "Tirap",
+        "coords":"27.0145552,95.5350487"
     },
     {
         "id": "Tawang",
-        "name": "Tawang"
+        "name": "Tawang",
+        "coords":"27.5860757,91.8506514"
     },
     {
         "id": "West-Siang",
-        "name": "West Siang"
+        "name": "West Siang",
+        "coords":"28.1665298,94.7323601"
     },
     {
         "id": "Lepa-Rada",
-        "name": "Lepa Rada"
+        "name": "Lepa Rada",
+        "coords":""
     },
     {
         "id": "Pakke-Kessang",
-        "name": "Pakke Kessang"
+        "name": "Pakke Kessang",
+        "coords":"27.1458714,93.2375062"
     },
     {
         "id": "Upper-Siang",
-        "name": "Upper Siang"
+        "name": "Upper Siang",
+        "coords":"28.7287251,94.3641271"
     },
     {
         "id": "Anjaw",
-        "name": "Anjaw"
+        "name": "Anjaw",
+        "coords":""
     },
     {
         "id": "East-Kameng",
-        "name": "East Kameng"
+        "name": "East Kameng",
+        "coords":"27.4916337,92.4479614"
     },
     {
         "id": "Kamle",
-        "name": "Kamle"
+        "name": "Kamle",
+        "coords":"23.5405784,84.7202353"
     },
     {
         "id": "Kra-Daadi",
-        "name": "Kra Daadi"
+        "name": "Kra Daadi",
+        "coords":""
     },
     {
         "id": "Kurung-Kumey",
-        "name": "Kurung Kumey"
+        "name": "Kurung Kumey",
+        "coords":""
     },
     {
         "id": "Lower-Subansiri",
-        "name": "Lower Subansiri"
+        "name": "Lower Subansiri",
+        "coords":"27.6313001,93.7998955"
     },
     {
         "id": "Shi-Yomi",
-        "name": "Shi Yomi"
+        "name": "Shi Yomi",
+        "coords":""
     },
     {
         "id": "Siang",
-        "name": "Siang"
+        "name": "Siang",
+        "coords":""
     },
     {
         "id": "Upper-Dibang-Valley",
-        "name": "Upper Dibang Valley"
+        "name": "Upper Dibang Valley",
+        "coords":"28.9170294,95.605411"
     },
     {
         "id": "Upper-Subansiri",
-        "name": "Upper Subansiri"
+        "name": "Upper Subansiri",
+        "coords":"27.8027156,94.3210594"
     }]
 },
 {
@@ -286,12 +341,9 @@
     "state": "Assam",
     "districtData": [
     {
-        "id": "Unknown",
-        "name": "Unknown"
-    },
-    {
         "id": "Kamrup-Metropolitan",
-        "name": "Kamrup Metropolitan"
+        "name": "Kamrup Metropolitan",
+        "coords": "26.0460855,91.4913596"
     },
     {
         "id": "Dhubri",
@@ -420,10 +472,6 @@
     {
         "id": "South-Salmara-Mankachar",
         "name": "South Salmara Mankachar"
-    },
-    {
-        "id": "Airport-Quarantine",
-        "name": "Airport Quarantine"
     }]
 },
 {
@@ -432,159 +480,193 @@
     "districtData": [
     {
         "id": "Patna",
-        "name": "Patna"
+        "name": "Patna",
+        "coords": "25.6080208,85.0730019"
     },
     {
         "id": "Bhagalpur",
-        "name": "Bhagalpur"
+        "name": "Bhagalpur",
+        "coords": "25.2403376,86.9217651"
     },
     {
         "id": "Madhubani",
-        "name": "Madhubani"
+        "name": "Madhubani",
+        "coords": "26.3460241,86.0385826"
     },
     {
         "id": "Begusarai",
-        "name": "Begusarai"
+        "name": "Begusarai",
+        "coords": "25.417864,86.0900138"
     },
     {
         "id": "Siwan",
-        "name": "Siwan"
+        "name": "Siwan",
+        "coords": "26.222814,84.3248015"
     },
     {
         "id": "Muzaffarpur",
-        "name": "Muzaffarpur"
+        "name": "Muzaffarpur",
+        "coords": "26.1204337,85.3162959"
     },
     {
         "id": "Munger",
-        "name": "Munger"
+        "name": "Munger",
+        "coords": "25.3710082,86.4559337"
     },
     {
         "id": "Samastipur",
-        "name": "Samastipur"
+        "name": "Samastipur",
+        "coords": "25.8560264,85.7780685"
     },
     {
         "id": "Rohtas",
-        "name": "Rohtas"
+        "name": "Rohtas",
+        "coords": "24.9373244,83.4224554"
     },
     {
         "id": "Katihar",
-        "name": "Katihar"
+        "name": "Katihar",
+        "coords": "25.5510294,87.5338511"
     },
     {
         "id": "Nawada",
-        "name": "Nawada"
+        "name": "Nawada",
+        "coords": "24.8905747,85.4997245"
     },
     {
         "id": "Darbhanga",
-        "name": "Darbhanga"
+        "name": "Darbhanga",
+        "coords": "26.150614,85.8331371"
     },
     {
         "id": "Purnia",
-        "name": "Purnia"
+        "name": "Purnia",
+        "coords": "25.7757179,87.4440954"
     },
     {
         "id": "Khagaria",
-        "name": "Khagaria"
+        "name": "Khagaria",
+        "coords": "25.5102259,86.4569288"
     },
     {
         "id": "Nalanda",
-        "name": "Nalanda"
+        "name": "Nalanda",
+        "coords": "25.2072602,85.2613276"
     },
     {
         "id": "Gopalganj",
-        "name": "Gopalganj"
+        "name": "Gopalganj",
+        "coords": "26.4831577,84.4277952"
     },
     {
         "id": "Aurangabad",
-        "name": "Aurangabad"
+        "name": "Aurangabad",
+        "coords": "24.8028091,84.0987414"
     },
     {
         "id": "Supaul",
-        "name": "Supaul"
+        "name": "Supaul",
+        "coords": "26.1233711,86.5957586"
     },
     {
         "id": "Jehanabad",
-        "name": "Jehanabad"
+        "name": "Jehanabad",
+        "coords": "25.2116895,84.9720594"
     },
     {
         "id": "Bhojpur",
-        "name": "Bhojpur"
+        "name": "Bhojpur",
+        "coords": "25.5832878,84.1239792"
     },
     {
         "id": "West-Champaran",
-        "name": "West Champaran"
+        "name": "West Champaran",
+        "coords": "27.0492648,83.7387331"
     },
     {
         "id": "Banka",
-        "name": "Banka"
+        "name": "Banka",
+        "coords": "24.8855786,86.9038293"
     },
     {
         "id": "East-Champaran",
-        "name": "East Champaran"
+        "name": "East Champaran",
+        "coords": "26.6362105,84.3272821"
     },
     {
         "id": "Gaya",
-        "name": "Gaya"
+        "name": "Gaya",
+        "coords": "24.7833122,84.9470611"
     },
     {
         "id": "Buxar",
-        "name": "Buxar"
+        "name": "Buxar",
+        "coords": "25.5703143,83.9434417"
     },
     {
         "id": "Saran",
-        "name": "Saran"
+        "name": "Saran",
+        "coords": "25.9207015,84.5227605"
     },
     {
         "id": "Vaishali",
-        "name": "Vaishali"
+        "name": "Vaishali",
+        "coords": "26.00511,85.0726973"
     },
     {
         "id": "Madhepura",
-        "name": "Madhepura"
+        "name": "Madhepura",
+        "coords": "25.923967,86.7858839"
     },
     {
         "id": "Saharsa",
-        "name": "Saharsa"
-    },
-    {
-        "id": "Unknown",
-        "name": "Unknown"
+        "name": "Saharsa",
+        "coords": "25.8786849,86.5297106"
     },
     {
         "id": "Kaimur",
-        "name": "Kaimur"
+        "name": "Kaimur",
+        "coords": "24.9068342,83.5272809"
     },
     {
         "id": "Kishanganj",
-        "name": "Kishanganj"
+        "name": "Kishanganj",
+        "coords": "26.093901,87.9294882"
     },
     {
         "id": "Sheikhpura",
-        "name": "Sheikhpura"
+        "name": "Sheikhpura",
+        "coords": "25.1384848,85.8325336"
     },
     {
         "id": "Sitamarhi",
-        "name": "Sitamarhi"
+        "name": "Sitamarhi",
+        "coords": "26.5815579,85.4676943"
     },
     {
         "id": "Lakhisarai",
-        "name": "Lakhisarai"
+        "name": "Lakhisarai",
+        "coords": "25.172578,86.0640223"
     },
     {
         "id": "Araria",
-        "name": "Araria"
+        "name": "Araria",
+        "coords": "26.1316813,87.4104444"
     },
     {
         "id": "Arwal",
-        "name": "Arwal"
+        "name": "Arwal",
+        "coords": "25.2427596,84.6568433"
     },
     {
         "id": "Sheohar",
-        "name": "Sheohar"
+        "name": "Sheohar",
+        "coords": "26.5142822,85.2900411"
     },
     {
         "id": "Jamui",
-        "name": "Jamui"
+        "name": "Jamui",
+        "coords": "24.9285055,86.1889019"
     }]
 },
 {
@@ -702,10 +784,6 @@
     {
         "id": "Bijapur",
         "name": "Bijapur"
-    },
-    {
-        "id": "Other-States",
-        "name": "Other States"
     }]
 },
 {
@@ -714,15 +792,13 @@
     "districtData": [
     {
         "id": "South-Goa",
-        "name": "South Goa"
+        "name": "South Goa",
+        "coords": "15.1956494,73.7724161"
     },
     {
         "id": "North-Goa",
-        "name": "North Goa"
-    },
-    {
-        "id": "Other-States",
-        "name": "Other States"
+        "name": "North Goa",
+        "coords": "15.5350699,73.6993811"
     }]
 },
 {
@@ -731,139 +807,168 @@
     "districtData": [
     {
         "id": "Ahmedabad",
-        "name": "Ahmedabad"
+        "name": "Ahmedabad",
+	    "coords": "23.0204975,72.4393107"
     },
     {
         "id": "Surat",
-        "name": "Surat"
+        "name": "Surat",
+         "coords": "21.1594624,72.6818642"
     },
     {
         "id": "Vadodara",
-        "name": "Vadodara"
+        "name": "Vadodara",
+         "coords": "22.3223598,73.0326543"
     },
     {
         "id": "Gandhinagar",
-        "name": "Gandhinagar"
+        "name": "Gandhinagar",
+         "coords": "23.2208519,72.5753354"
     },
     {
         "id": "Rajkot",
-        "name": "Rajkot"
+        "name": "Rajkot",
+         "coords": "22.2736307,70.7510836"
     },
     {
         "id": "Bhavnagar",
-        "name": "Bhavnagar"
+        "name": "Bhavnagar",
+         "coords": "21.7639783,72.0846934"
     },
     {
         "id": "Mehsana",
-        "name": "Mehsana"
+        "name": "Mehsana",
+         "coords": "23.5899467,72.3478734"
     },
     {
         "id": "Bharuch",
-        "name": "Bharuch"
+        "name": "Bharuch",
+         "coords": "21.7278383,72.9685243"
     },
     {
         "id": "Jamnagar",
-        "name": "Jamnagar"
+        "name": "Jamnagar",
+         "coords": "22.4744739,69.9882008"
     },
     {
         "id": "Anand",
-        "name": "Anand"
+        "name": "Anand",
+         "coords": "22.5489479,72.9096285"
     },
     {
         "id": "Patan",
-        "name": "Patan"
+        "name": "Patan",
+         "coords": "23.8482582,72.0872204"
     },
     {
         "id": "Aravalli",
-        "name": "Aravalli"
+        "name": "Aravalli",
+         "coords": "23.4820832,72.75246"
     },
     {
         "id": "Banaskantha",
-        "name": "Banaskantha"
+        "name": "Banaskantha",
+         "coords": "24.3073808,72.3495143"
     },
     {
         "id": "Panchmahal",
-        "name": "Panchmahal"
+        "name": "Panchmahal",
+         "coords": "22.6965767,73.0795139"
     },
     {
         "id": "Sabarkantha",
-        "name": "Sabarkantha"
+        "name": "Sabarkantha",
+         "coords": "23.8684318,72.5115757"
     },
     {
         "id": "Kheda",
-        "name": "Kheda"
+        "name": "Kheda",
+         "coords": "22.7502764,72.6807897"
     },
     {
         "id": "Surendranagar",
-        "name": "Surendranagar"
+        "name": "Surendranagar",
+         "coords": "22.7231822,71.6114618"
     },
     {
         "id": "Valsad",
-        "name": "Valsad"
+        "name": "Valsad",
+         "coords": "20.6067805,72.8948871"
     },
     {
         "id": "Kutch",
-        "name": "Kutch"
+        "name": "Kutch",
+         "coords": "23.7108607,68.7986436"
     },
     {
         "id": "Junagadh",
-        "name": "Junagadh"
+        "name": "Junagadh",
+         "coords": "21.5307113,70.3673972"
     },
     {
         "id": "Mahisagar",
-        "name": "Mahisagar"
+        "name": "Mahisagar",
+         "coords": "23.191227,73.3551353"
     },
     {
         "id": "Navsari",
-        "name": "Navsari"
+        "name": "Navsari",
+         "coords": "20.9437993,72.9102293"
     },
     {
         "id": "Botad",
-        "name": "Botad"
+        "name": "Botad",
+         "coords": "22.172101,71.6419916"
     },
     {
         "id": "Amreli",
-        "name": "Amreli"
+        "name": "Amreli",
+         "coords": "21.5994725,71.1859452"
     },
     {
         "id": "Narmada",
-        "name": "Narmada"
-    },
-    {
-        "id": "Other-States",
-        "name": "Other States"
+        "name": "Narmada",
+         "coords": "21.7388811,73.3617298"
     },
     {
         "id": "Gir-Somnath",
-        "name": "Gir Somnath"
+        "name": "Gir Somnath",
+         "coords": "20.992401,70.4508695"
     },
     {
         "id": "Dahod",
-        "name": "Dahod"
+        "name": "Dahod",
+         "coords": "22.8494755,74.217473"
     },
     {
         "id": "Chhota-Udaipur",
-        "name": "Chhota Udaipur"
+        "name": "Chhota Udaipur",
+         "coords": "22.3084716,73.9930377"
     },
     {
         "id": "Morbi",
-        "name": "Morbi"
+        "name": "Morbi",
+         "coords": "22.8050533,70.8216897"
     },
     {
         "id": "Devbhumi-Dwarka",
-        "name": "Devbhumi Dwarka"
+        "name": "Devbhumi Dwarka",
+         "coords": "22.1609855,69.1551498"
     },
     {
         "id": "Porbandar",
-        "name": "Porbandar"
+        "name": "Porbandar",
+         "coords": "21.6355367,69.5951802"
     },
     {
         "id": "Tapi",
-        "name": "Tapi"
+        "name": "Tapi",
+         "coords": "21.1866912,73.2059773"
     },
     {
         "id": "Dang",
-        "name": "Dang"
+        "name": "Dang",
+         "coords": "20.824788,73.4257895"
     }]
 },
 {
@@ -872,99 +977,114 @@
     "districtData": [
     {
         "id": "Gurugram",
-        "name": "Gurugram"
+        "name": "Gurugram",
+        "coords": "28.4231875,76.8493191"
     },
     {
         "id": "Faridabad",
-        "name": "Faridabad"
+        "name": "Faridabad",
+        "coords": "28.4020698,77.1789886"
     },
     {
         "id": "Sonipat",
-        "name": "Sonipat"
+        "name": "Sonipat",
+        "coords": "28.9489924,76.9437691"
     },
     {
         "id": "Rohtak",
-        "name": "Rohtak"
+        "name": "Rohtak",
+        "coords": "28.8895315,76.5813154"
     },
     {
         "id": "Bhiwani",
-        "name": "Bhiwani"
+        "name": "Bhiwani",
+        "coords": "28.8026478,76.1045824"
     },
     {
         "id": "Karnal",
-        "name": "Karnal"
+        "name": "Karnal",
+        "coords": "29.6852406,76.9534125"
     },
     {
         "id": "Rewari",
-        "name": "Rewari"
+        "name": "Rewari",
+        "coords": "28.1990334,76.6024656"
     },
     {
         "id": "Ambala",
-        "name": "Ambala"
+        "name": "Ambala",
+        "coords": "30.3721234,76.7424073"
     },
     {
         "id": "Palwal",
-        "name": "Palwal"
+        "name": "Palwal",
+        "coords": "28.1445893,77.3168188"
     },
     {
         "id": "Jhajjar",
-        "name": "Jhajjar"
+        "name": "Jhajjar",
+        "coords": "28.6065383,76.6402617"
     },
     {
         "id": "Mahendragarh",
-        "name": "Mahendragarh"
+        "name": "Mahendragarh",
+        "coords": "28.2638602,76.1271124"
     },
     {
         "id": "Hisar",
-        "name": "Hisar"
+        "name": "Hisar",
+        "coords": "29.1561728,75.6854987"
     },
     {
         "id": "Nuh",
-        "name": "Nuh"
+        "name": "Nuh",
+        "coords": "28.1012193,76.9806611"
     },
     {
         "id": "Panipat",
-        "name": "Panipat"
+        "name": "Panipat",
+        "coords": "29.3963429,76.8940806"
     },
     {
         "id": "Kurukshetra",
-        "name": "Kurukshetra"
+        "name": "Kurukshetra",
+        "coords": "29.969277,76.8468822"
     },
     {
         "id": "Fatehabad",
-        "name": "Fatehabad"
+        "name": "Fatehabad",
+        "coords": "29.5049081,75.437993"
     },
     {
         "id": "Panchkula",
-        "name": "Panchkula"
+        "name": "Panchkula",
+        "coords": "30.7024862,76.7922108"
     },
     {
         "id": "Sirsa",
-        "name": "Sirsa"
+        "name": "Sirsa",
+        "coords": "29.5369797,74.9953874"
     },
     {
         "id": "Jind",
-        "name": "Jind"
+        "name": "Jind",
+        "coords": "29.3132627,76.2852854"
     },
     {
         "id": "Kaithal",
-        "name": "Kaithal"
+        "name": "Kaithal",
+        "coords": "29.7918549,76.3725751"
     },
     {
         "id": "Yamunanagar",
-        "name": "Yamunanagar"
+        "name": "Yamunanagar",
+        "coords": "30.1321714,77.2527025"
     },
     {
         "id": "Charkhi-Dadri",
-        "name": "Charkhi Dadri"
-    },
-    {
-        "id": "Foreign-Evacuees",
-        "name": "Foreign Evacuees"
-    },
-    {
-        "id": "Italians",
-        "name": "Italians"
+        "name": "Charkhi Dadri",
+        "coords": "28.594957,76.2497948"
+
     }]
 },
 {
@@ -1313,211 +1433,263 @@
     "districtData": [
     {
         "id": "Indore",
-        "name": "Indore"
+        "name": "Indore",
+        "coords": "22.7242284,75.7237618"
     },
     {
         "id": "Bhopal",
-        "name": "Bhopal"
+        "name": "Bhopal",
+        "coords": "23.1996633,77.2658034"
     },
     {
         "id": "Ujjain",
-        "name": "Ujjain"
+        "name": "Ujjain",
+        "coords": "23.1690737,75.7622008"
     },
     {
         "id": "Morena",
-        "name": "Morena"
+        "name": "Morena",
+        "coords": "26.4908526,77.9748746"
     },
     {
         "id": "Neemuch",
-        "name": "Neemuch"
+        "name": "Neemuch",
+        "coords": "24.4679237,74.8371069"
     },
     {
         "id": "Gwalior",
-        "name": "Gwalior"
+        "name": "Gwalior",
+        "coords": "26.214396,78.0508112"
     },
     {
         "id": "Jabalpur",
-        "name": "Jabalpur"
+        "name": "Jabalpur",
+        "coords": "23.1758374,79.898712"
     },
     {
         "id": "Burhanpur",
-        "name": "Burhanpur"
+        "name": "Burhanpur",
+        "coords": "21.3177279,76.1829948"
     },
     {
         "id": "Sagar",
-        "name": "Sagar"
+        "name": "Sagar",
+        "coords": "23.8375603,78.7136071"
     },
     {
         "id": "Khandwa",
-        "name": "Khandwa"
+        "name": "Khandwa",
+        "coords": "21.8306439,76.3173953"
     },
     {
         "id": "Khargone",
-        "name": "Khargone"
+        "name": "Khargone",
+        "coords": "21.824445,75.5780142"
     },
     {
         "id": "Bhind",
-        "name": "Bhind"
+        "name": "Bhind",
+        "coords": "26.5657989,78.7584107"
     },
     {
         "id": "Dewas",
-        "name": "Dewas"
+        "name": "Dewas",
+        "coords": "22.960807,76.0075266"
     },
     {
         "id": "Dhar",
-        "name": "Dhar"
+        "name": "Dhar",
+        "coords": "22.5968338,75.2925264"
     },
     {
         "id": "Ratlam",
-        "name": "Ratlam"
+        "name": "Ratlam",
+        "coords": "23.3367713,75.0074263"
     },
     {
         "id": "Mandsaur",
-        "name": "Mandsaur"
+        "name": "Mandsaur",
+        "coords": "24.0734121,75.0461468"
     },
     {
         "id": "Barwani",
-        "name": "Barwani"
+        "name": "Barwani",
+        "coords": "22.0378984,74.8867724"
     },
     {
         "id": "Raisen",
-        "name": "Raisen"
+        "name": "Raisen",
+        "coords": "23.2673221,77.518661"
     },
     {
         "id": "Rajgarh",
-        "name": "Rajgarh"
+        "name": "Rajgarh",
+        "coords": "24.0051483,76.7103622"
     },
     {
         "id": "Sheopur",
-        "name": "Sheopur"
+        "name": "Sheopur",
+        "coords": "25.670146,76.6791842"
     },
     {
         "id": "Betul",
-        "name": "Betul"
+        "name": "Betul",
+        "coords": "21.9070709,77.8653602"
     },
     {
         "id": "Chhindwara",
-        "name": "Chhindwara"
+        "name": "Chhindwara",
+        "coords": "22.0499116,78.9022018"
     },
     {
         "id": "Shajapur",
-        "name": "Shajapur"
+        "name": "Shajapur",
+        "coords": "23.41727,76.258748"
     },
     {
         "id": "Rewa",
-        "name": "Rewa"
+        "name": "Rewa",
+        "coords": "24.5406801,81.2855671"
     },
     {
         "id": "Chhatarpur",
-        "name": "Chhatarpur"
+        "name": "Chhatarpur",
+        "coords": "24.9067073,79.5506682"
     },
     {
         "id": "Vidisha",
-        "name": "Vidisha"
+        "name": "Vidisha",
+        "coords": "23.5202344,77.797593"
     },
     {
         "id": "Ashoknagar",
-        "name": "Ashoknagar"
+        "name": "Ashoknagar",
+        "coords": "24.5728939,77.7166949"
     },
     {
         "id": "Tikamgarh",
-        "name": "Tikamgarh"
+        "name": "Tikamgarh",
+        "coords": "24.7487726,78.7983219"
     },
     {
         "id": "Damoh",
-        "name": "Damoh"
+        "name": "Damoh",
+        "coords": "23.8246813,79.4020979"
     },
     {
         "id": "Datia",
-        "name": "Datia"
+        "name": "Datia",
+        "coords": "25.6663159,78.4194009"
     },
     {
         "id": "Hoshangabad",
-        "name": "Hoshangabad"
+        "name": "Hoshangabad",
+        "coords": ""
     },
     {
         "id": "Satna",
-        "name": "Satna"
+        "name": "Satna",
+        "coords": "22.7534721,77.6962034"
     },
     {
         "id": "Harda",
-        "name": "Harda"
+        "name": "Harda",
+        "coords": "22.3485259,77.0734719"
     },
     {
         "id": "Shivpuri",
-        "name": "Shivpuri"
+        "name": "Shivpuri",
+        "coords": "25.4333819,77.629029"
     },
     {
         "id": "Panna",
-        "name": "Panna"
+        "name": "Panna",
+        "coords": "24.713882,80.1477251"
     },
     {
         "id": "Balaghat",
-        "name": "Balaghat"
+        "name": "Balaghat",
+        "coords": "21.811776,80.1540176"
     },
     {
         "id": "Narsinghpur",
-        "name": "Narsinghpur"
+        "name": "Narsinghpur",
+        "coords": "22.9463691,79.1829614"
     },
     {
         "id": "Dindori",
-        "name": "Dindori"
+        "name": "Dindori",
+        "coords": "22.9407665,81.0585021"
     },
     {
         "id": "Anuppur",
-        "name": "Anuppur"
+        "name": "Anuppur",
+        "coords": "23.1150176,81.6602383"
     },
     {
         "id": "Shahdol",
-        "name": "Shahdol"
+        "name": "Shahdol",
+        "coords": "23.3039635,81.3275914"
     },
     {
         "id": "Sehore",
-        "name": "Sehore"
+        "name": "Sehore",
+        "coords": "23.2088099,77.0704745"
     },
     {
         "id": "Sidhi",
-        "name": "Sidhi"
+        "name": "Sidhi",
+        "coords": "24.3996187,81.8678705"
     },
     {
         "id": "Guna",
-        "name": "Guna"
+        "name": "Guna",
+        "coords": "24.6466825,77.2771348"
     },
     {
         "id": "Katni",
-        "name": "Katni"
+        "name": "Katni",
+        "coords": "23.8237011,80.3648562"
     },
     {
         "id": "Singrauli",
-        "name": "Singrauli"
+        "name": "Singrauli",
+        "coords": "24.1989812,82.6434514"
     },
     {
         "id": "Jhabua",
-        "name": "Jhabua"
+        "name": "Jhabua",
+        "coords": "22.7682462,74.5784567"
     },
     {
         "id": "Agar-Malwa",
-        "name": "Agar Malwa"
+        "name": "Agar Malwa",
+        "coords": "23.711455,76.0010053"
     },
     {
         "id": "Seoni",
-        "name": "Seoni"
+        "name": "Seoni",
+        "coords": "22.0867908,79.5305655"
     },
     {
         "id": "Umaria",
-        "name": "Umaria"
+        "name": "Umaria",
+        "coords": "23.5313908,80.8074687"
     },
     {
         "id": "Niwari",
-        "name": "Niwari"
+        "name": "Niwari",
+        "coords": "25.3606727,78.7892353"
     },
     {
         "id": "Mandla",
-        "name": "Mandla"
+        "name": "Mandla",
+        "coords": "22.5958055,80.3618789"
     },
     {
         "id": "Alirajpur",
-        "name": "Alirajpur"
+        "name": "Alirajpur",
+        "coords": "22.3054748,74.3454265"
     }]
 },
 {
@@ -1526,147 +1698,183 @@
     "districtData": [
     {
         "id": "Mumbai",
-        "name": "Mumbai"
+        "name": "Mumbai",
+		"coords": "19.080318, 72.876194"
     },
     {
         "id": "Thane",
-        "name": "Thane"
+        "name": "Thane",
+	    "coords": "19.220739, 72.980314"
     },
     {
         "id": "Pune",
-        "name": "Pune"
+        "name": "Pune",
+	    "coords": "18.541787, 73.844628"
     },
     {
         "id": "Palghar",
-        "name": "Palghar"
+        "name": "Palghar",
+	    "coords": "19.696382, 72.770244"
     },
     {
         "id": "Aurangabad",
-        "name": "Aurangabad"
+        "name": "Aurangabad",
+	"coords": "19.877196, 75.340616"
     },
     {
         "id": "Raigad",
-        "name": "Raigad"
+        "name": "Raigad",
+	"coords": "18.236662, 73.443818"
     },
     {
         "id": "Nashik",
-        "name": "Nashik"
+        "name": "Nashik",
+	"coords": "19.997376, 73.799994"
     },
     {
         "id": "Jalgaon",
-        "name": "Jalgaon"
+        "name": "Jalgaon",
+	"coords": "21.000750, 75.571927"
     },
     {
         "id": "Solapur",
-        "name": "Solapur"
+        "name": "Solapur",
+	"coords": "17.660030, 75.910204"
     },
     {
         "id": "Nagpur",
-        "name": "Nagpur"
+        "name": "Nagpur",
+	"coords": "21.148892, 79.092505"
     },
     {
         "id": "Akola",
-        "name": "Akola"
+        "name": "Akola",
+	"coords": "20.703028, 77.007922"
     },
     {
         "id": "Satara",
-        "name": "Satara"
+        "name": "Satara",
+	"coords": "17.679945, 74.020548"
     },
     {
         "id": "Dhule",
-        "name": "Dhule"
+        "name": "Dhule",
+	"coords": "20.899703, 74.770548"
     },
     {
         "id": "Kolhapur",
-        "name": "Kolhapur"
+        "name": "Kolhapur",
+	"coords": "16.694637, 74.248445"
     },
     {
         "id": "Ratnagiri",
-        "name": "Ratnagiri"
+        "name": "Ratnagiri",
+	"coords": "16.993185, 73.329217"
     },
     {
         "id": "Amravati",
-        "name": "Amravati"
+        "name": "Amravati",
+	"coords": "20.909462, 77.756361"
     },
     {
         "id": "Jalna",
-        "name": "Jalna"
+        "name": "Jalna",
+	"coords": "19.839797, 75.885615"
     },
     {
         "id": "Ahmednagar",
-        "name": "Ahmednagar"
+        "name": "Ahmednagar",
+	"coords": "19.094413, 74.743701"
     },
     {
         "id": "Latur",
-        "name": "Latur"
+        "name": "Latur",
+	"coords": "18.407099, 76.563278"
     },
     {
         "id": "Sangli",
-        "name": "Sangli"
+        "name": "Sangli",
+	"coords": "16.850146, 74.593254"
     },
     {
         "id": "Nanded",
-        "name": "Nanded"
+        "name": "Nanded",
+	"coords": "19.144171, 77.322808"
     },
     {
         "id": "Yavatmal",
-        "name": "Yavatmal"
+        "name": "Yavatmal",
+	"coords": "20.388832, 78.127555"
     },
     {
         "id": "Buldhana",
-        "name": "Buldhana"
+        "name": "Buldhana",
+	"coords": "20.527986, 76.183802"
     },
     {
         "id": "Hingoli",
-        "name": "Hingoli"
+        "name": "Hingoli",
+	"coords": "19.720065, 77.152211"
     },
     {
         "id": "Osmanabad",
-        "name": "Osmanabad"
+        "name": "Osmanabad",
+	"coords": "18.196568, 76.044259"
     },
     {
         "id": "Sindhudurg",
-        "name": "Sindhudurg"
+        "name": "Sindhudurg",
+	"coords": "16.112513, 73.679602"
     },
     {
         "id": "Nandurbar",
-        "name": "Nandurbar"
+        "name": "Nandurbar",
+	"coords": "21.367915, 74.246986"
     },
     {
         "id": "Gondia",
-        "name": "Gondia"
+        "name": "Gondia",
+	"coords": "21.455438, 80.203690"
     },
     {
         "id": "Beed",
-        "name": "Beed"
+        "name": "Beed",
+	"coords": "18.989652, 75.751289"
     },
     {
         "id": "Washim",
-        "name": "Washim"
+        "name": "Washim",
+	"coords": "20.114855, 77.129280"
     },
     {
         "id": "Parbhani",
-        "name": "Parbhani"
+        "name": "Parbhani",
+	"coords": "19.263328, 76.775121"
     },
     {
         "id": "Chandrapur",
-        "name": "Chandrapur"
+        "name": "Chandrapur",
+	"coords": "19.970920, 79.292018"
     },
     {
         "id": "Bhandara",
-        "name": "Bhandara"
+        "name": "Bhandara",
+	"coords": "21.171080, 79.651463"
     },
     {
         "id": "Gadchiroli",
-        "name": "Gadchiroli"
+        "name": "Gadchiroli",
+	"coords": "20.178113, 79.989927"
     },
     {
         "id": "Wardha",
-        "name": "Wardha"
+        "name": "Wardha",
+	"coords": "20.740056, 78.602385"
     },
     {
         "id": "Mumbai-Suburban",
-        "name": "Mumbai Suburban"
+        "name": "Mumbai Suburban",
+	"coords": "19.057261, 72.871215"
     }]
 },
 {
@@ -1857,10 +2065,6 @@
         "name": "Kohima"
     },
     {
-        "id": "Others",
-        "name": "Others"
-    },
-    {
         "id": "Tuensang",
         "name": "Tuensang"
     },
@@ -1895,139 +2099,158 @@
     "districtData": [
     {
         "id": "Ganjam",
-        "name": "Ganjam"
+        "name": "Ganjam",
+		"coords": "19.3884398,85.0374766"
     },
     {
         "id": "Cuttack",
         "name": "Cuttack",
-        "zone": "GREEN"
+        "coords":"20.4630933,85.7977047"
     },
     {
         "id": "Jajapur",
-        "name": "Jajapur"
+        "name": "Jajapur",
+        "coords":"20.8389975,86.3143831"
     },
     {
         "id": "Khordha",
-        "name": "Khordha"
+        "name": "Khordha",
+        "coords":"20.1795664,85.6243511"
     },
     {
         "id": "Gajapati",
         "name": "Gajapati",
-        "zone": "GREEN"
+        "coords":"19.1929022,83.5581727"
     },
     {
         "id": "Baleswar",
-        "name": "Baleswar"
+        "name": "Baleswar",
+        "coords":"21.4894039,86.8841396"
     },
     {
         "id": "Bhubaneswar",
-        "name": "Bhubaneswar"
+        "name": "Bhubaneswar",
+        "coords":"20.3008284,85.6803641"
     },
     {
         "id": "Jagatsinghpur",
-        "name": "Jagatsinghpur"
+        "name": "Jagatsinghpur",
+        "coords":"20.2490365,86.132125"
     },
     {
         "id": "Puri",
         "name": "Puri",
-        "zone": "GREEN"
+        "coords":"19.8088229,85.7865802"
     },
     {
         "id": "Kendrapara",
-        "name": "Kendrapara"
+        "name": "Kendrapara",
+        "coords":"20.4989536,86.3857589"
     },
     {
         "id": "Bhadrak",
-        "name": "Bhadrak"
+        "name": "Bhadrak",
+        "coords":"21.0511593,86.4675979"
     },
     {
         "id": "Mayurbhanj",
-        "name": "Mayurbhanj"
+        "name": "Mayurbhanj",
+        "coords":"21.9220654,85.8516173"
     },
     {
         "id": "Sundargarh",
-        "name": "Sundargarh"
+        "name": "Sundargarh",
+        "coords":"22.1268506,84.0224179"
     },
     {
         "id": "Bolangir",
-        "name": "Bolangir"
+        "name": "Bolangir",
+        "coords":"20.698907,83.4666737"
     },
     {
         "id": "Kandhamal",
         "name": "Kandhamal",
-        "zone": "GREEN"
+        "coords":"20.1268691,83.4826141"
     },
     {
         "id": "Nayagarh",
-        "name": "Nayagarh"
+        "name": "Nayagarh",
+        "coords":"20.1267865,85.0864961"
     },
     {
         "id": "Keonjhar",
-        "name": "Keonjhar"
+        "name": "Keonjhar",
+        "coords":"21.6473683,85.5672733"
     },
     {
         "id": "Bargarh",
         "name": "Bargarh",
-        "zone": "GREEN"
+        "coords":"21.3481805,83.5945566"
     },
     {
         "id": "Jharsuguda",
-        "name": "Jharsuguda"
+        "name": "Jharsuguda",
+        "coords":"21.869016,83.9830211"
     },
     {
         "id": "Rayagada",
         "name": "Rayagada",
-        "zone": "GREEN"
+        "coords":"19.1749816,83.3918093"
     },
     {
         "id": "Malkangiri",
         "name": "Malkangiri",
-        "zone": "GREEN"
+        "coords":"18.3504807,81.8708594"
     },
     {
         "id": "Dhenkanal",
-        "name": "Dhenkanal"
+        "name": "Dhenkanal",
+        "coords":"20.6548665,85.5649465"
     },
     {
         "id": "Nuapada",
         "name": "Nuapada",
-        "zone": "GREEN"
+        "coords":"20.2499941,85.5691253"
     },
     {
         "id": "Kalahandi",
-        "name": "Kalahandi"
+        "name": "Kalahandi",
+        "coords":"20.1362199,85.0804276"
     },
     {
         "id": "Angul",
-        "name": "Angul"
+        "name": "Angul",
+        "coords":"20.8364363,85.07059"
     },
     {
         "id": "Sambalpur",
         "name": "Sambalpur",
-        "zone": "GREEN"
+        "coords":"21.4703944,83.9378635"
     },
     {
         "id": "Deogarh",
-        "name": "Deogarh"
+        "name": "Deogarh",
+        "coords":"21.5366021,84.7106193"
     },
     {
         "id": "Koraput",
-        "name": "Koraput"
+        "name": "Koraput",
+        "coords":"18.8137321,82.6929328"
     },
     {
         "id": "Boudh",
         "name": "Boudh",
-        "zone": "GREEN"
+        "coords":"20.8436748,84.3100553"
     },
     {
         "id": "Nabarangpur",
         "name": "Nabarangpur",
-        "zone": "GREEN"
+        "coords":"19.2302106,82.5276703"
     },
     {
         "id": "Subarnapur",
         "name": "Subarnapur",
-        "zone": "GREEN"
+        "coords":"20.8439413,83.8853482"
     }]
 },
 {
@@ -2036,91 +2259,114 @@
     "districtData": [
     {
         "id": "Ludhiana",
-        "name": "Ludhiana"
+        "name": "Ludhiana",
+        "coords": "30.9003263,75.7866329"
+
     },
     {
         "id": "Amritsar",
-        "name": "Amritsar"
+        "name": "Amritsar",
+        "coords": "31.633525,74.80008"
     },
     {
         "id": "Jalandhar",
-        "name": "Jalandhar"
+        "name": "Jalandhar",
+        "coords": "31.3223787,75.5033789"
     },
     {
         "id": "Sangrur",
-        "name": "Sangrur"
+        "name": "Sangrur",
+        "coords": "30.242212,75.8252762"
     },
     {
         "id": "Patiala",
-        "name": "Patiala"
+        "name": "Patiala",
+        "coords": "30.3466365,76.3390135"
     },
     {
         "id": "S-A-S-Nagar",
-        "name": "S.A.S. Nagar"
+        "name": "S.A.S. Nagar",
+        "coords": "30.6983052,76.6273401"
     },
     {
         "id": "Gurdaspur",
-        "name": "Gurdaspur"
+        "name": "Gurdaspur",
+        "coords": "32.0426561,75.3909059"
     },
     {
         "id": "Pathankot",
-        "name": "Pathankot"
+        "name": "Pathankot",
+        "coords": "32.2694342,75.6343459"
     },
     {
         "id": "Tarn-Taran",
-        "name": "Tarn Taran"
+        "name": "Tarn Taran",
+        "coords": "31.3210808,74.5159832"
     },
     {
         "id": "Hoshiarpur",
-        "name": "Hoshiarpur"
+        "name": "Hoshiarpur",
+        "coords": "31.5266408,75.8852733"
     },
     {
         "id": "S-B-S-Nagar",
-        "name": "S.B.S. Nagar"
+        "name": "S.B.S. Nagar",
+        "coords": "30.8791222,75.8006123"
     },
     {
         "id": "Muktsar",
-        "name": "Muktsar"
+        "name": "Muktsar",
+        "coords": "30.4718286,74.4972179"
     },
     {
         "id": "Fatehgarh-Sahib",
-        "name": "Fatehgarh Sahib"
+        "name": "Fatehgarh Sahib",
+        "coords": "30.6537881,76.3770158"
     },
     {
         "id": "Moga",
-        "name": "Moga"
+        "name": "Moga",
+        "coords": "30.8222348,75.1529086"
     },
     {
         "id": "Rupnagar",
-        "name": "Rupnagar"
+        "name": "Rupnagar",
+        "coords": "30.9626257,76.4896481"
     },
     {
         "id": "Faridkot",
-        "name": "Faridkot"
+        "name": "Faridkot",
+        "coords": "30.6754939,74.7131721"
     },
     {
         "id": "Kapurthala",
-        "name": "Kapurthala"
+        "name": "Kapurthala",
+        "coords": "31.3756136,75.3743647"
     },
     {
         "id": "Firozpur",
-        "name": "Firozpur"
+        "name": "Firozpur",
+        "coords": "30.9319375,74.5892517"
     },
     {
         "id": "Fazilka",
-        "name": "Fazilka"
+        "name": "Fazilka",
+        "coords": "30.4019216,74.0119018"
     },
     {
         "id": "Bathinda",
-        "name": "Bathinda"
+        "name": "Bathinda",
+        "coords": "30.2087515,74.8886465"
     },
     {
         "id": "Barnala",
-        "name": "Barnala"
+        "name": "Barnala",
+        "coords": "30.3667007,75.5268429"
     },
     {
         "id": "Mansa",
-        "name": "Mansa"
+        "name": "Mansa",
+        "coords": "29.9990147,75.3649014"
     }]
 },
 {
@@ -2129,151 +2375,168 @@
     "districtData": [
     {
         "id": "Jaipur",
-        "name": "Jaipur"
+        "name": "Jaipur",
+        "coords" : "26.8854476,75.6501263"
     },
     {
         "id": "Jodhpur",
-        "name": "Jodhpur"
+        "name": "Jodhpur",
+        "coords" : "26.2704963,72.9603306"
     },
     {
         "id": "Bharatpur",
-        "name": "Bharatpur"
+        "name": "Bharatpur",
+        "coords" : "27.2198455,77.458139"
     },
     {
         "id": "Pali",
-        "name": "Pali"
+        "name": "Pali",
+        "coords" : "25.7773904,73.2908511"
     },
     {
         "id": "Udaipur",
-        "name": "Udaipur"
+        "name": "Udaipur",
+        "coords" : "24.608426,73.6368458"
     },
     {
         "id": "Kota",
-        "name": "Kota"
+        "name": "Kota",
+        "coords" : "25.1735416,75.776736"
     },
     {
         "id": "Dholpur",
-        "name": "Dholpur"
+        "name": "Dholpur",
+        "coords" : "26.7008084,77.8397266"
     },
     {
         "id": "Nagaur",
-        "name": "Nagaur"
+        "name": "Nagaur",
+        "coords" : "27.2070454,73.6894166"
     },
     {
         "id": "Alwar",
-        "name": "Alwar"
+        "name": "Alwar",
+        "coords" : "27.5547763,76.5761631"
     },
     {
         "id": "Sikar",
-        "name": "Sikar"
+        "name": "Sikar",
+        "coords" : "27.6095393,75.1077009"
     },
     {
         "id": "Ajmer",
-        "name": "Ajmer"
+        "name": "Ajmer",
+        "coords" : "26.4533797,74.5655011"
     },
     {
         "id": "Sirohi",
-        "name": "Sirohi"
+        "name": "Sirohi",
+        "coords" : "24.8900738,72.8322149"
     },
     {
         "id": "Dungarpur",
-        "name": "Dungarpur"
+        "name": "Dungarpur",
+        "coords" : "23.8466967,73.6962385"
     },
     {
         "id": "Barmer",
-        "name": "Barmer"
+        "name": "Barmer",
+        "coords" : "25.7691191,71.3699011"
     },
     {
         "id": "Bikaner",
-        "name": "Bikaner"
+        "name": "Bikaner",
+        "coords" : "28.0214793,73.284435"
     },
     {
         "id": "Jhalawar",
-        "name": "Jhalawar"
+        "name": "Jhalawar",
+        "coords" : "24.5886234,76.1401405"
     },
     {
         "id": "Jhunjhunu",
-        "name": "Jhunjhunu"
+        "name": "Jhunjhunu",
+        "coords" : "28.1228697,75.3581868"
     },
     {
         "id": "Churu",
-        "name": "Churu"
+        "name": "Churu",
+        "coords" : "28.2978741,74.9316922"
     },
     {
         "id": "Jalore",
-        "name": "Jalore"
+        "name": "Jalore",
+        "coords" : "25.3299728,72.5900074"
     },
     {
         "id": "Rajsamand",
-        "name": "Rajsamand"
+        "name": "Rajsamand",
+        "coords" : "25.0458571,73.8148257"
     },
     {
         "id": "Bhilwara",
-        "name": "Bhilwara"
+        "name": "Bhilwara",
+        "coords" : "25.341494,74.5966307"
     },
     {
         "id": "Chittorgarh",
-        "name": "Chittorgarh"
+        "name": "Chittorgarh",
+        "coords" : "24.9049762,74.5513815"
     },
     {
         "id": "Tonk",
-        "name": "Tonk"
+        "name": "Tonk",
+        "coords" : "26.1655516,75.7616965"
     },
     {
         "id": "Dausa",
-        "name": "Dausa"
-    },
-    {
-        "id": "Other-States",
-        "name": "Other States"
+        "name": "Dausa",
+        "coords" : "26.8936278,76.3079445"
     },
     {
         "id": "Jaisalmer",
-        "name": "Jaisalmer"
+        "name": "Jaisalmer",
+        "coords" : "26.903651,70.8596247"
     },
     {
         "id": "Sawai-Madhopur",
-        "name": "Sawai Madhopur"
+        "name": "Sawai Madhopur",
+        "coords" : "26.0268347,76.2960975"
     },
     {
         "id": "Karauli",
-        "name": "Karauli"
+        "name": "Karauli",
+        "coords" : "26.4986439,77.0018861"
     },
     {
         "id": "Banswara",
-        "name": "Banswara"
+        "name": "Banswara",
+        "coords" : "23.5404578,74.4002162"
     },
     {
         "id": "Hanumangarh",
-        "name": "Hanumangarh"
+        "name": "Hanumangarh",
+        "coords" : "29.5825606,74.3136261"
     },
     {
         "id": "Pratapgarh",
-        "name": "Pratapgarh"
+        "name": "Pratapgarh",
+        "coords" : "24.0312648,74.7648756,14"
     },
     {
         "id": "Baran",
-        "name": "Baran"
-    },
-    {
-        "id": "Evacuees",
-        "name": "Evacuees"
+        "name": "Baran",
+        "coords" : "25.0955322,76.4501152"
     },
     {
         "id": "Ganganagar",
-        "name": "Ganganagar"
-    },
-    {
-        "id": "BSF-Camp",
-        "name": "BSF Camp"
+        "name": "Ganganagar",
+        "coords" : "29.9091728,73.8439465"
     },
     {
         "id": "Bundi",
-        "name": "Bundi"
-    },
-    {
-        "id": "Italians",
-        "name": "Italians"
+        "name": "Bundi",
+        "coords" : "25.4359814,75.6117074"
     }]
 },
 {
@@ -2303,159 +2566,188 @@
     "districtData": [
     {
         "id": "Chennai",
-        "name": "Chennai"
+        "name": "Chennai",
+        "coords": "13.0474878,80.068925"
     },
     {
         "id": "Chengalpattu",
-        "name": "Chengalpattu"
+        "name": "Chengalpattu",
+        "coords": "12.6729725,79.9624582"
     },
     {
         "id": "Tiruvallur",
-        "name": "Tiruvallur"
+        "name": "Tiruvallur",
+        "coords": "13.1230555,79.9031978"
     },
     {
         "id": "Madurai",
-        "name": "Madurai"
+        "name": "Madurai",
+        "coords": "9.917835,78.087804"
     },
     {
         "id": "Kancheepuram",
-        "name": "Kancheepuram"
+        "name": "Kancheepuram",
+        "coords": "12.8184557,79.6859038"
     },
     {
         "id": "Tiruvannamalai",
-        "name": "Tiruvannamalai"
+        "name": "Tiruvannamalai",
+        "coords": "12.2408546,79.0342331"
     },
     {
         "id": "Vellore",
-        "name": "Vellore"
+        "name": "Vellore",
+        "coords": "12.8992994,79.0483018"
     },
     {
         "id": "Cuddalore",
-        "name": "Cuddalore"
+        "name": "Cuddalore",
+        "coords": "11.7508644,79.7491656"
     },
     {
         "id": "Ramanathapuram",
-        "name": "Ramanathapuram"
+        "name": "Ramanathapuram",
+        "coords": "9.3678273,78.8257136"
     },
     {
         "id": "Salem",
-        "name": "Salem"
+        "name": "Salem",
+        "coords": "11.6537266,78.0682566"
     },
     {
         "id": "Kallakurichi",
-        "name": "Kallakurichi"
+        "name": "Kallakurichi",
+        "coords": "11.7355587,78.9530699"
     },
     {
         "id": "Thoothukudi",
-        "name": "Thoothukudi"
+        "name": "Thoothukudi",
+        "coords": "8.7766073,78.0759768"
     },
     {
         "id": "Viluppuram",
-        "name": "Viluppuram"
+        "name": "Viluppuram",
+        "coords": "11.9336761,79.481999"
     },
     {
         "id": "Ranipet",
-        "name": "Ranipet"
+        "name": "Ranipet",
+        "coords": "12.9533913,79.2815916"
     },
     {
         "id": "Theni",
-        "name": "Theni"
+        "name": "Theni",
+        "coords": "10.0134011,77.4630897"
     },
     {
         "id": "Tirunelveli",
-        "name": "Tirunelveli"
+        "name": "Tirunelveli",
+        "coords": "8.721555,77.6721372"
     },
     {
         "id": "Tiruchirappalli",
-        "name": "Tiruchirappalli"
-    },
-    {
-        "id": "Airport-Quarantine",
-        "name": "Airport Quarantine"
+        "name": "Tiruchirappalli",
+        "coords": "10.8158368,78.6189874"
     },
     {
         "id": "Virudhunagar",
-        "name": "Virudhunagar"
+        "name": "Virudhunagar",
+        "coords": "9.5734396,77.9231708"
     },
     {
         "id": "Coimbatore",
-        "name": "Coimbatore"
+        "name": "Coimbatore",
+        "coords": "11.0117016,76.8971944"
     },
     {
         "id": "Dindigul",
-        "name": "Dindigul"
+        "name": "Dindigul",
+        "coords": "10.3623791,77.9607031"
     },
     {
         "id": "Tiruvarur",
-        "name": "Tiruvarur"
+        "name": "Tiruvarur",
+        "coords": "10.7674362,79.6179141"
     },
     {
         "id": "Kanniyakumari",
-        "name": "Kanniyakumari"
+        "name": "Kanniyakumari",
+        "coords": "8.0864019,77.5371157"
     },
     {
         "id": "Thanjavur",
-        "name": "Thanjavur"
+        "name": "Thanjavur",
+        "coords": "10.7528121,79.0614088"
     },
     {
         "id": "Ariyalur",
-        "name": "Ariyalur"
-    },
-    {
-        "id": "Railway-Quarantine",
-        "name": "Railway Quarantine"
+        "name": "Ariyalur",
+        "coords": "11.1388744,79.0566782"
     },
     {
         "id": "Tenkasi",
-        "name": "Tenkasi"
+        "name": "Tenkasi",
+        "coords": "8.9593517,77.3073542"
     },
     {
         "id": "Sivaganga",
-        "name": "Sivaganga"
+        "name": "Sivaganga",
+        "coords": "9.8500128,78.4701256"
     },
     {
         "id": "Nagapattinam",
-        "name": "Nagapattinam"
+        "name": "Nagapattinam",
+        "coords": "10.77958,79.7894411"
     },
     {
         "id": "Pudukkottai",
-        "name": "Pudukkottai"
+        "name": "Pudukkottai",
+        "coords": "10.3832864,78.7913742"
     },
     {
         "id": "Thirupathur",
-        "name": "Thirupathur"
+        "name": "Thirupathur",
+        "coords": "10.1109186,78.5977862"
     },
     {
         "id": "Erode",
-        "name": "Erode"
+        "name": "Erode",
+        "coords": "11.3466241,77.6803773"
     },
     {
         "id": "Tiruppur",
-        "name": "Tiruppur"
+        "name": "Tiruppur",
+        "coords": "11.1085742,77.2937723"
     },
     {
         "id": "Krishnagiri",
-        "name": "Krishnagiri"
+        "name": "Krishnagiri",
+        "coords": "12.5265657,78.2062027"
     },
     {
         "id": "Perambalur",
-        "name": "Perambalur"
+        "name": "Perambalur",
+        "coords": "11.2342101,78.8719304"
     },
     {
         "id": "Karur",
-        "name": "Karur"
+        "name": "Karur",
+        "coords": "10.9651497,78.032938"
     },
     {
         "id": "Nilgiris",
-        "name": "Nilgiris"
+        "name": "Nilgiris",
+        "coords": "11.4483606,76.3438651"
     },
     {
         "id": "Dharmapuri",
-        "name": "Dharmapuri"
+        "name": "Dharmapuri",
+        "coords": "12.1269525,78.1339745"
     },
     {
         "id": "Namakkal",
-        "name": "Namakkal"
+        "name": "Namakkal",
+        "coords": "11.2188955,78.1586027" 
     }]
 },
 {
@@ -2473,14 +2765,6 @@
     {
         "id": "Medchal-Malkajgiri",
         "name": "Medchal Malkajgiri"
-    },
-    {
-        "id": "Unknown",
-        "name": "Unknown"
-    },
-    {
-        "id": "Other-States",
-        "name": "Other States"
     },
     {
         "id": "Sangareddy",
@@ -2557,10 +2841,6 @@
     {
         "id": "Rajanna-Sircilla",
         "name": "Rajanna Sircilla"
-    },
-    {
-        "id": "Foreign-Evacuees",
-        "name": "Foreign Evacuees"
     },
     {
         "id": "Jagtial",
@@ -2712,35 +2992,43 @@
     {
         "id": "Moradabad",
         "name": "Moradabad",
-        "coords": "28.8432857,78.6975118"        
+        "coords": "28.8432857,78.6975118" 
+       
     },
     {
         "id": "Saharanpur",
-        "name": "Saharanpur"
+        "name": "Saharanpur",
+        "coords": "29.9636288,77.5214077"
     },
     {
         "id": "Gorakhpur",
-        "name": "Gorakhpur"
+        "name": "Gorakhpur",
+        "coords": "26.7636979,83.3338711"
     },
     {
         "id": "Barabanki",
-        "name": "Barabanki"
+        "name": "Barabanki",
+        "coords": "26.9387026,81.1609906"
     },
     {
         "id": "Mathura",
-        "name": "Mathura"
+        "name": "Mathura",
+        "coords": "27.4743568,77.6141141"
     },
     {
         "id": "Basti",
-        "name": "Basti"
+        "name": "Basti",
+        "coords": "6.8034398,82.7166687"
     },
     {
         "id": "Rampur",
-        "name": "Rampur"
+        "name": "Rampur",
+        "coords": "28.7931101,78.9898546"
     },
     {
         "id": "Sambhal",
-        "name": "Sambhal"
+        "name": "Sambhal",
+        "coords": "28.7931101,78.9898546"
     },
     {
         "id": "Ghazipur",
@@ -2750,63 +3038,77 @@
     {
         "id": "Prayagraj",
         "name": "Prayagraj",
-        "coords":"25.4025075,81.6614977"
+        "coords": "25.4025075,81.6614977"
     },
     {
         "id": "Etawah",
-        "name": "Etawah"
+        "name": "Etawah",
+        "coords": "26.7874879,78.9825181"
     },
     {
         "id": "Bareilly",
-        "name": "Bareilly"
+        "name": "Bareilly",
+        "coords": "28.3760609,79.3518993"
     },
     {
         "id": "Bijnor",
-        "name": "Bijnor"
+        "name": "Bijnor",
+        "coords": "29.3786329,78.1044199"
     },
     {
         "id": "Ayodhya",
-        "name": "Ayodhya"
+        "name": "Ayodhya",
+        "coords": "26.7897741,82.1816582"
     },
     {
         "id": "Baghpat",
-        "name": "Baghpat"
+        "name": "Baghpat",
+        "coords": "28.9442065,77.2105895"
     },
     {
         "id": "Muzaffarnagar",
-        "name": "Muzaffarnagar"
+        "name": "Muzaffarnagar",
+        "coords": "29.4751211,77.6738382"
     },
     {
         "id": "Amethi",
-        "name": "Amethi"
+        "name": "Amethi",
+        "coords": "26.1554997,81.8063053"
     },
     {
         "id": "Siddharthnagar",
-        "name": "Siddharthnagar"
+        "name": "Siddharthnagar",
+        "coords": "27.252176,82.6020003"
     },
     {
         "id": "Azamgarh",
-        "name": "Azamgarh"
+        "name": "Azamgarh",
+        "coords": "26.056835,83.1195255"
     },
     {
         "id": "Mainpuri",
-        "name": "Mainpuri"
+        "name": "Mainpuri",
+        "coords": "27.2287491,78.9885469"
     },
     {
         "id": "Sant-Kabir-Nagar",
-        "name": "Sant Kabir Nagar"
+        "name": "Sant Kabir Nagar",
+        "coords": "26.7327221,83.1392372"
     },
     {
         "id": "Kannauj",
-        "name": "Kannauj"
+        "name": "Kannauj",
+        "coords": "27.0437578,79.8982642"
     },
     {
         "id": "Deoria",
-        "name": "Deoria"
+        "name": "Deoria",
+        "coords": "26.4972924,83.7452596"
     },
     {
         "id": "Hardoi",
-        "name": "Hardoi"
+        "name": "Hardoi",
+        "coords": "27.3868172,80.1040093"
     },
     {
         "id": "Jhansi",
@@ -2815,91 +3117,113 @@
     },
     {
         "id": "Sultanpur",
-        "name": "Sultanpur"
+        "name": "Sultanpur",
+        "coords": "25.4411012,78.4922477"
     },
     {
         "id": "Jalaun",
-        "name": "Jalaun"
+        "name": "Jalaun",
+        "coords": "26.1415605,79.295389"
     },
     {
         "id": "Unnao",
-        "name": "Unnao"
+        "name": "Unnao",
+        "coords": "26.5441422,80.4491037"
     },
     {
         "id": "Hathras",
-        "name": "Hathras"
+        "name": "Hathras",
+        "coords": "27.5905833,78.0184859"
     },
     {
         "id": "Farrukhabad",
-        "name": "Farrukhabad"
+        "name": "Farrukhabad",
+        "coords": "27.3812108,79.5570975"
     },
     {
         "id": "Maharajganj",
-        "name": "Maharajganj"
+        "name": "Maharajganj",
+        "coords": "27.1494313,83.5360791"
     },
     {
         "id": "Gonda",
-        "name": "Gonda"
+        "name": "Gonda",
+        "coords": "27.1435406,81.9183197"
     },
     {
         "id": "Chandauli",
-        "name": "Chandauli"
+        "name": "Chandauli",
+        "coords": "25.2621808,83.2533431"
     },
     {
         "id": "Shamli",
-        "name": "Shamli"
+        "name": "Shamli",
+        "coords": "29.448414,77.2898482"
     },
     {
         "id": "Ballia",
-        "name": "Ballia"
+        "name": "Ballia",
+        "coords": "28.1972547,79.3555603"
     },
     {
         "id": "Kushinagar",
-        "name": "Kushinagar"
+        "name": "Kushinagar",
+        "coords": "26.7416957,83.8849613"
     },
     {
         "id": "Mau",
-        "name": "Mau"
+        "name": "Mau",
+        "coords": "25.9396535,83.5276021"
     },
     {
         "id": "Budaun",
-        "name": "Budaun"
+        "name": "Budaun",
+        "coords": "28.0248547,79.0939659"
     },
     {
         "id": "Bhadohi",
-        "name": "Bhadohi"
+        "name": "Bhadohi",
+        "coords": "25.3898968,82.5508402"
     },
     {
         "id": "Fatehpur",
-        "name": "Fatehpur"
+        "name": "Fatehpur",
+        "coords": "25.9227617,80.7814401"
     },
     {
         "id": "Amroha",
-        "name": "Amroha"
+        "name": "Amroha",
+        "coords": "28.8999785,78.4480793"
     },
     {
         "id": "Rae-Bareli",
-        "name": "Rae Bareli"
+        "name": "Rae Bareli",
+        "coords": "26.2362505,81.2068467"
     },
     {
         "id": "Pilibhit",
-        "name": "Pilibhit"
+        "name": "Pilibhit",
+        "coords": "28.6275585,79.7744911"
     },
     {
         "id": "Etah",
-        "name": "Etah"
+        "name": "Etah",
+        "coords": "27.5569971,78.6379863"
     },
     {
         "id": "Shahjahanpur",
-        "name": "Shahjahanpur"
+        "name": "Shahjahanpur",
+        "coords": "27.4877997,79.8231553"
     },
     {
         "id": "Bahraich",
-        "name": "Bahraich"
+        "name": "Bahraich",
+        "coords": "27.5743278,81.5848173"
     },
     {
         "id": "Ambedkar-Nagar",
-        "name": "Ambedkar Nagar"
+        "name": "Ambedkar Nagar",
+        "coords": "27.8107256,79.729161"
     },
     {
         "id": "Mirzapur",
@@ -2908,39 +3232,48 @@
     },
     {
         "id": "Pratapgarh",
-        "name": "Pratapgarh"
+        "name": "Pratapgarh",
+        "coords": "25.899769,81.9269554"
     },
     {
         "id": "Lakhimpur-Kheri",
-        "name": "Lakhimpur Kheri"
+        "name": "Lakhimpur Kheri",
+        "coords": "27.942657,80.7445598"
     },
     {
         "id": "Auraiya",
-        "name": "Auraiya"
+        "name": "Auraiya",
+        "coords": "26.4619408,79.4958262"
     },
     {
         "id": "Kaushambi",
-        "name": "Kaushambi"
+        "name": "Kaushambi",
+        "coords": "25.3590343,81.3959884"
     },
     {
         "id": "Chitrakoot",
-        "name": "Chitrakoot"
+        "name": "Chitrakoot",
+        "coords": "25.1697878,80.8225959"
     },
     {
         "id": "Kasganj",
-        "name": "Kasganj"
+        "name": "Kasganj",
+        "coords": "27.804696,78.6262358"
     },
     {
         "id": "Balrampur",
-        "name": "Balrampur"
+        "name": "Balrampur",
+        "coords": "27.4145484,82.1830136"
     },
     {
         "id": "Hamirpur",
-        "name": "Hamirpur"
+        "name": "Hamirpur",
+        "coords": "25.9547253,80.1464867"
     },
     {
         "id": "Shrawasti",
-        "name": "Shrawasti"
+        "name": "Shrawasti",
+        "coords": "27.6055702,81.6482773"
     },
     {
         "id": "Kanpur-Dehat",
@@ -2949,15 +3282,18 @@
     },
     {
         "id": "Sitapur",
-        "name": "Sitapur"
+        "name": "Sitapur",
+        "coords": "27.5634434,80.6456837"
     },
     {
         "id": "Mahoba",
-        "name": "Mahoba"
+        "name": "Mahoba",
+        "coords": "25.2949767,79.8515534"
     },
     {
         "id": "Banda",
-        "name": "Banda"
+        "name": "Banda",
+        "coords": "25.4779837,80.3094999"
     },
     {
         "id": "Sonbhadra",
@@ -2966,7 +3302,8 @@
     },
     {
         "id": "Lalitpur",
-        "name": "Lalitpur"
+        "name": "Lalitpur",
+        "coords": "24.6887803,78.3917641"
     }]
 },
 {
@@ -3129,43 +3466,42 @@
     "districtData": [
     {
         "id": "South-Andaman",
-        "name": "South Andaman"
+        "name": "South Andaman",
+        "coords": "11.8595779,92.3706531"
     },
     {
         "id": "North-and-Middle-Andaman",
-        "name": "North and Middle Andaman"
+        "name": "North and Middle Andaman",
+        "coords": "12.8702236,92.3155469"
     },
     {
         "id": "Nicobars",
-        "name": "Nicobars"
+        "name": "Nicobars",
+        "coords": "8.0586561,93.7754799"
     }]
 },
 {
     "id": "IN-CH",
     "state": "Chandigarh",
-    "districtData": [
-    {
-        "id": "Chandigarh",
-        "name": "Chandigarh"
-    }]
+    "coords": "30.7352102,76.6934885",
+    "districtData": []
 },
 {
     "id": "IN-DD",
     "state": "Daman and Diu",
+    "coords": "20.5554255,71.3282877",
     "districtData": []
 },
 {
     "id": "IN-DN",
     "state": "Dadra and Nagar Haveli",
-    "districtData": [
-    {
-        "id": "Dadra-and-Nagar-Haveli",
-        "name": "Dadra and Nagar Haveli"
-    }]
+    "coords": "20.2076617,72.9336734",
+    "districtData": []
 },
 {
     "id": "IN-LD",
     "state": "Lakshadweep",
+    "coords": "10.3256829,70.539872",
     "districtData": []
 },
 {
@@ -3174,18 +3510,22 @@
     "districtData": [
     {
         "id": "Puducherry",
-        "name": "Puducherry"
+        "name": "Puducherry",
+        "coords": "11.9363771,79.7785084"
     },
     {
         "id": "Karaikal",
-        "name": "Karaikal"
+        "name": "Karaikal",
+        "coords": "10.9266834,79.8170458"
     },
     {
         "id": "Mahe",
-        "name": "Mahe"
+        "name": "Mahe",
+        "coords": "11.7008494,75.5203262"
     },
     {
         "id": "Yanam",
-        "name": "Yanam"
+        "name": "Yanam",
+        "coords": "16.5605268,81.7799158"
     }]
 } ]
